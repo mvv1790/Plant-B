@@ -1,5 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+
+* {
+    margin: 2px;
+    padding: 2px;
+    border: none;
+}
+
+
+body {
+    font-family: Lato, sans-serif;
+    font-family: Oswald, sans-serif;
+}
+
+h1 {
+    font-family: Oswald, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: darkolivegreen;
+}
+
+/* navigation links */
+
+#menu {
+    font-family: Lato, sans-serif;
+    color: darkolivegreen;
+    text-transform: lowercase;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 4px;
+}
+
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+}
+
 #top-image {
-    height: 600px;
+    height: 850px;
     width: 100%;
-    background: url(../imgaes/basil_leaves.jpg);
+    background: url('../images/banana.jpg') no-repeat center center;
+}
+
+#page-color {
+    background-color: lightgrey;
 }
