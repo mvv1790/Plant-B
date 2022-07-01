@@ -19,7 +19,6 @@ h1 {
     color: darkolivegreen;
 }
 
-/* navigation links */
 
 #menu {
     font-family: Lato, sans-serif;
@@ -75,6 +74,58 @@ h1 {
     background: url('../images/banana.jpg') no-repeat center center;
 }
 
+#top-image {
+    overflow: hidden;  
+    position: relative;
+}
+
+
 #page-color {
     background-color: lightgrey;
 }
+
+#top-image-text,
+#top-image-text h2 {
+    color: #fff;
+}
+
+#top-image-text {
+    font-size: 130%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 60px;
+    padding-left: 40px;
+
+    background-color: rgba(241, 109, 107, .7);
+
+    top: 90px;
+    right: 540px;
+
+    position: absolute;
+}
+
+#top-image-text2{
+    font-size: 130%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 60px;
+    padding-left: 40px;
+
+    background-color: rgba(241, 109, 107, .7);
+
+    bottom: 220px;
+    left: 20px;
+
+    position: absolute;
+}
+
