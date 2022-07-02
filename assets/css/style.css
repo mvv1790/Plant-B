@@ -24,7 +24,7 @@ h1 {
 #menu {
     font-family: Lato, sans-serif;
     color: darkolivegreen;
-    text-transform: lowercase;
+    text-transform: capitalize;
 }
 
 #logo {
@@ -163,3 +163,4 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
