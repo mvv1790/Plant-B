@@ -12,6 +12,10 @@ body {
     font-family: Oswald, sans-serif;
 }
 
+#page-color {
+    background-color: lightyellow;
+}
+
 h1 {
     font-size: 130%;
     font-family: Oswald, sans-serif;
@@ -81,11 +85,6 @@ h1 {
     position: relative;
 }
 
-
-#page-color {
-    background-color: lightgrey;
-}
-
 /* top image text styling */
 
 #top-image-text,
@@ -137,11 +136,10 @@ h1 {
 /* philosophy */
 
 #philosophy {
-    height: 850px;
+    height: 1250px;
     width: 100%;
-    background: url('../images/river1.png') no-repeat center center;
-    overflow: hidden;  
-    position: relative;
+    background: url('../images/carrot.png') no-repeat center center;
+    position: absolute;
 }
 
 #h2_heading {
@@ -150,7 +148,7 @@ h1 {
     text-align:center;
     font-size: 320%;
     font-family: cursive;
-    color: #3a3a3a;
+    color: darkolivegreen;
 }
 
 #ideology_text {
@@ -158,6 +156,7 @@ h1 {
     height: auto;
     text-align:center;
     font-family: cursive;
+    color: darkolivegreen;
 }
 
 /* social network styling */
