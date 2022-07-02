@@ -33,13 +33,23 @@ h1 {
     margin-left: 30px;
 }
 
-/* navigation links */
+/* navigation menu */
 
 #menu {
     font-size: 100%;
     letter-spacing: 4px;
 }
 
+#home-nav {
+    font-size: large;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+}
+
+#house-icon {
+    float: right;
+}
 
 #menu li {
     float: right;
@@ -62,6 +72,7 @@ h1 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+/* logo and top image */
 
 #logo {
     float: left;
@@ -164,3 +175,17 @@ footer {
     color: #3a3a3a;
 }
 
+/* sticky recipie notes */
+
+#recipies {
+    margin: 20px auto;
+    font-family: 'Lato';
+    background:#666;
+    color:#fff;
+    overflow: hidden;  
+    position: relative;
+    display: block;
+    column-count: 3;
+    column-gap: 1;
+  }
+   
