@@ -38,17 +38,7 @@ h1 {
 #menu {
     font-size: 100%;
     letter-spacing: 4px;
-}
-
-#home-nav {
-    font-size: large;
-    position: absolute;
-    left: 50%;
-    right: 50%;
-}
-
-#house-icon {
-    float: right;
+    display: inline;
 }
 
 #menu li {
@@ -154,6 +144,22 @@ h1 {
     position: relative;
 }
 
+#h2_heading {
+    width: auto;
+    height: auto;
+    text-align:center;
+    font-size: 320%;
+    font-family: cursive;
+    color: #3a3a3a;
+}
+
+#ideology_text {
+    width: auto;
+    height: auto;
+    text-align:center;
+    font-family: cursive;
+}
+
 /* social network styling */
 
 footer {
@@ -188,4 +194,3 @@ footer {
     column-count: 3;
     column-gap: 1;
   }
-   
