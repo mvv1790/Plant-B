@@ -221,11 +221,34 @@ footer {
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 260%;
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
 }
 
+/* Media queries */
 
+/* For larger to medium screens size from 1200px wide and down */
 
+@media screen and (max-width: 1200px) {
+    #top-image {
+        width: 100%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #top-image-text {
+        height: auto;
+        width: 30%;
+        float: left;
+        padding: 0;
+        right: 180px;
+    }
+
+    #top-image-text2 {
+        width: 30%;
+        padding: 0;
+        bottom: 100px;
+    }
+}
