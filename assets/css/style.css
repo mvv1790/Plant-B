@@ -17,17 +17,18 @@ body {
 }
 
 h1 {
-    font-size: 130%;
+    font-size: 180%;
+    font-weight: 900;
     font-family: Oswald, sans-serif;
     text-transform: capitalize;
     letter-spacing: 2px;
-    color: darkolivegreen;
+    color: black;
 }
 
 
 #menu {
     font-family: Lato, sans-serif;
-    color: darkolivegreen;
+    color: black;
     text-transform: capitalize;
 }
 
@@ -58,12 +59,12 @@ h1 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 3px solid orangered;
 }
 
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 3px solid orangered;
 }
 
 /* logo and top image */
@@ -135,49 +136,75 @@ h1 {
 
 /* philosophy */
 
-#philosophy {
-    height: 860px;
-    width: 100%;
-    background: url('../images/carrot_edit.png') no-repeat center bottom;
-    padding-bottom: 2px;
-}
-
 #h2_heading {
     width: auto;
     height: auto;
     text-align: center;
     font-size: 320%;
     font-family: cursive;
-    color: darkolivegreen;
+    color: black;
 }
 
-#ideology_text {
+#philosophy_container {
+    width: 100%;
+    height: 600px;
+    background: url('../images/carrot_edit.png') no-repeat center center, rgba(66, 146, 97, 0.8);
+}
+
+#philosophy_text {
     width: auto;
     height: auto;
     text-align: center;
     font-family: cursive;
-    color: darkolivegreen;
+    color: black;
 }
 
- /* unvisited link */
- a:link {
+/* unvisited link */
+a:link {
     color: red;
-  }
-  
-  /* visited link */
-  a:visited {
-    color: darkolivegreen;
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: orange;
-  }
-  
-  /* selected link */
-  a:active {
-    color: orangered;
-  } 
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: darkslategrey;
+}
+
+/* selected link */
+a:active {
+    color: darkslategrey;
+}
+
+/* recipes list styling */
+
+.recipes_h2 {
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-size: 320%;
+    font-family: cursive;
+    color: black;
+}
+
+#recipe_list {
+    padding-top: 2px;
+}
+
+#recipe_list div {
+    color: black;
+    background-color: rgba(114, 92, 103, 0.8);
+    width: 33%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    /*border: 2px solid black;*/
+    box-sizing: border-box;
+}
 
 /* social network styling */
 
@@ -200,29 +227,5 @@ footer {
     color: #3a3a3a;
 }
 
-.recipes_h2 {
-    width: auto;
-    height: auto;
-    text-align: center;
-    font-size: 320%;
-    font-family: cursive;
-    color: darkolivegreen;
-}
 
-/* recipes list styling */
 
-#recipe_list {
-    margin-top: 0px;
-}
-
-#recipe_list div {
-    color: #fafafa;
-    background-color: rgba(0, 0, 0, .6);
-    width: 33%;
-    height: 300px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    border: 2px solid white;
-    box-sizing: border-box;
-}
