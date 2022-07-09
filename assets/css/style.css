@@ -256,3 +256,32 @@ footer {
         display: none;
     }
 }
+
+/* For medium to small screens 1000px wide and down */
+
+@media screen and (max-width: 1000px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        line-height: 15px;
+    }
+
+    #top_image_media > div {
+        top: 10px;
+        height: 150px;
+    }
+
+    #top_image_text2 {
+    }
+
+    #philosophy_media > div {
+        width: 100%;
+        height: 120;
+        padding: 0;
+
+    }
+
+}
