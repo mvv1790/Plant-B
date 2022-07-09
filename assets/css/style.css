@@ -12,7 +12,7 @@ body {
     font-family: Oswald, sans-serif;
 }
 
-#page-color {
+.page-color {
     background-color: lightyellow;
 }
 
@@ -235,22 +235,22 @@ footer {
     #top_image_media {
         height: 650px;
         width: 100%;
-        background: url('../images/banana.jpg') no-repeat center center;
+        background: url('../images/banana.jpg') no-repeat center center, rgba(66, 146, 97, 0.8);
     }
-    
-    #top_image_media > div {
+
+    #top_image_media>div {
         width: 100%;
         height: 150px;
         padding: 0;
     }
 
-    #philosophy_container > div {
+    #philosophy_container>div {
         width: 100%;
-        height: 150px;
+        height: 460px;
         padding: 0;
     }
 
-    #recipe_list > div {
+    #recipe_list>div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -274,23 +274,22 @@ footer {
         line-height: 15px;
     }
 
-    #top_image_media > div {
+    #top_image_media>div #top_image_text, #top_image_text2 {
         width: 100%;
-        height: 120px;
+        height: 240px;
         padding: 0;
-        float: left;
+        right: 0;
     }
 
     #top_image_text {
-        margin-right: 40px;
-        position: absolute;
+        width: 100%;
+        height: 380px;
+        right: 0;
+        font-size: 100%;
     }
 
-    #philosophy_media > div {
-        width: 100%;
-        height: 120;
-        background-size: auto;
-        background-position: 50%;
-        padding: 0;
+    #top_image_text2{
+        bottom: 120px;
     }
+
 }
