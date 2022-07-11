@@ -212,6 +212,10 @@ a:active {
     font-weight: 300;
 }
 
+ul {
+    list-style-type: none;
+}
+
 /* social network styling */
 
 footer {
