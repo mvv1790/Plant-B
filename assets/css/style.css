@@ -156,12 +156,14 @@ h1 {
 
 #philosophy_container {
     width: 100%;
-    height: 600px;
+    height: 800px;
     background: url('../images/carrot_edit.png') no-repeat center center, rgba(66, 146, 97, 0.8);
     margin: 0 auto;
+    padding-bottom: 0%;
 }
 
 #philosophy_text {
+    font-size: 120%;
     width: auto;
     height: auto;
     text-align: center;
@@ -171,7 +173,7 @@ h1 {
 
 /* unvisited link */
 a:link {
-    color: red;
+    color: black;
 }
 
 /* visited link */
