@@ -9,13 +9,13 @@ Plant-B does not have any particular age restrictions.
 
 The website contains a number of features users expect from a modern site.
 
-<ul>Navigation bar</ul>
+<ul>Navigation bar
 
-<ul>About Page</ul>
+About Page
 
-<ul>Food Recipes</ul>
+Food Recipes
 
-<ul>Links to Social Media</ul>
+Links to Social Media</ul>
 
 <h2>Testing</h2>
 
