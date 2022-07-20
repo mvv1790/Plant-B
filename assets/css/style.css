@@ -353,11 +353,11 @@ footer {
 
     #philosophy_container {
         width: 100%;
-        height: 500px;
+        height: 700px;
     }
 
-    #philosophy_media>div {
-        font-size: 80%;
+    #philosophy_text {
+        font-size: 100%;
     }
 
     #philosophy_media>div h2 {
