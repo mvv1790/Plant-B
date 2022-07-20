@@ -157,12 +157,14 @@ h1 {
 #philosophy_container {
     width: 100%;
     height: 800px;
-    background: url('../images/carrot_edit.png') no-repeat center center, rgba(66, 146, 97, 0.8);
+    background: url('../images/carrot_edit.png') no-repeat center bottom;
+    background-color: rgba(66, 146, 97, 0.8);
     margin: 0 auto;
     padding-bottom: 0%;
 }
 
 #philosophy_text {
+    padding-top: 20px;
     font-size: 120%;
     width: auto;
     height: auto;
@@ -353,7 +355,7 @@ footer {
 
     #philosophy_container {
         width: 100%;
-        height: 700px;
+        height: 800px;
     }
 
     #philosophy_text {
