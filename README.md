@@ -38,11 +38,7 @@ Newsletter - if so inclined a user is welcome to share their email address for a
 ![image](https://user-images.githubusercontent.com/104979865/180091148-ff38b0b2-f0f8-47fd-853f-b149a7f9f2e4.png)
 
 
-
 <h2>Testing</h2>
-
-![image](https://user-images.githubusercontent.com/104979865/180092009-f8eb46e5-4fed-4c77-ad3f-16ac7334f554.png)
-
 
 <h4>The W3C CSS Validation Service</h4>
 
@@ -54,12 +50,6 @@ No errors or warning were found
 
 <h4>Lighthouse Accessibility Scores</h4> 
 
-Performance - 98
-
-Accessibility - 100
-
-Best Practices - 92
-
-SEO -98
+![image](https://user-images.githubusercontent.com/104979865/180092056-4b9921b3-e2e9-4f8c-b83c-0375304bfb78.png)
 
 <a href="https://mvv1790.github.io/Plant-B" target="_blank" rel=”noopener”>Plant-B</a>
