@@ -56,7 +56,7 @@ No errors were found
 
 <h4>Nu Html Checker</h4>
 
-No errors or warning were found
+No errors or warnings were found
 
 <h4>Lighthouse Accessibility Scores</h4> 
 
@@ -64,7 +64,7 @@ No errors or warning were found
 
 <h2>Bugs and changes</h2>
 
-Throughout this project I have encountered a few difficulties such as adjusting images to fit the screen, resizing font to fit smaller devices as we as numerous typos. 
+Throughout this project I have encountered a few difficulties such as adjusting images to fit the screen, resizing font to fit smaller devices as well as numerous typos. 
 
 The first iteration of the site was not quiet clear. After some consideration I decided to lean towards the vegan food and not the positive impact of plant based diet. Which is still a part of the website but recipes take priority, the positive impact is an added bonus. 
 
@@ -82,6 +82,4 @@ Sign up template and a few smaller solutions from <a href="https://www.w3schools
 
 Images taken from <a href="https://pixabay.com/">Pixabay</a>
 
-
-
-
+Navigation menu icons were taken from <a href="https://fontawesome.com">Font Awesome</a>
