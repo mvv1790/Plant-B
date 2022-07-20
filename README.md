@@ -76,9 +76,11 @@ The site is deployed to GitHub pages.
 
 <h2>Credits</h2>
 
-Parts of the code were taken from the Code Institute "Love Running" Project.
+Parts of the code were taken from the Code Institute <a href="https://mvv1790.github.io/love-running/">Love Running</a> Project.
 
 Sign up template and a few smaller solutions from <a href="https://www.w3schools.com" target="_blank" rel=”noopener”>W3Schools</a>
+
+Images taken from <a href="https://pixabay.com/">Pixabay</a>
 
 
 
