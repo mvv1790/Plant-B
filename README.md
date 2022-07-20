@@ -29,15 +29,21 @@ The goal of the website is to share vegan food recipes. In addition it provides 
 
 <h2>Our Philosophy</h2>
 
+This part of the site contains a text explaining the idea behind this project. In addition there are two links which take a user to academic papers that dive deep into benefits of vegan diet. 
+
 ![image](https://user-images.githubusercontent.com/104979865/180090884-e1dcfba7-7fdf-4385-a5bd-2d6a79b9952f.png)
 
 
 <h2>Recipes</h2>
 
+The Recipe section of the website contains a three part recipe for vegan pizza. Though it is meant to be used together, the pizza dough can be used for any type of toppings. There is a list of ingredients needed for this recipe as well as method of preparation.   
+
 ![image](https://user-images.githubusercontent.com/104979865/180091036-57da423c-93f5-4e49-a33e-c7ea08100c38.png)
 
 
 <h2>Footer</h2>
+
+The Footer contains the "Sing Up For Our Newsletter" form and some links to social media. The bottom right corner contains the name of the author of the site which is a clickable to LinkedIn.
 
 ![image](https://user-images.githubusercontent.com/104979865/180091148-ff38b0b2-f0f8-47fd-853f-b149a7f9f2e4.png)
 
@@ -54,6 +60,12 @@ No errors or warning were found
 
 <h4>Lighthouse Accessibility Scores</h4> 
 
+<h2>Bugs and changes</h2>
+
+Throughout this project I have encountered a few difficulties such as adjusting images to fit the screen, 
+
 ![image](https://user-images.githubusercontent.com/104979865/180092056-4b9921b3-e2e9-4f8c-b83c-0375304bfb78.png)
+
+<h2>Link to the site</h2>
 
 <a href="https://mvv1790.github.io/Plant-B" target="_blank" rel=”noopener”>Plant-B</a>
