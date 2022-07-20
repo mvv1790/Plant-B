@@ -134,7 +134,7 @@ h1 {
     background-color: rgba(170, 35, 101, 0.8);
 
     bottom: 220px;
-    left: 20px; 
+    left: 20px;
 
     position: absolute;
 }
@@ -226,6 +226,32 @@ a:active {
 
 ul {
     list-style-type: none;
+}
+
+/* newsletter sign up styling */
+
+#newsletter {
+    font-family: Oswald, sans-serif;
+    text-align: center;
+    background-color: #ebbe25;
+}
+
+button {
+    background-color: lightyellow;
+    border: 8px solid rgba(66, 146, 97, 0.8);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+
+.signupbtn {
+    font-weight: 500;
+    font-size: medium;
+    text-align: center;
 }
 
 /* social network styling */
