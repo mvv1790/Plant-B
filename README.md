@@ -23,6 +23,21 @@ Newsletter - if so inclined a user is welcome to share their email address for a
 
 ![image](https://user-images.githubusercontent.com/104979865/180090672-84ba6c71-1da8-4f82-909b-6a8a3de447de.png)
 
+<h2>Our Philosophy</h2>
+
+![image](https://user-images.githubusercontent.com/104979865/180090884-e1dcfba7-7fdf-4385-a5bd-2d6a79b9952f.png)
+
+
+<h2>Recipes</h2>
+
+![image](https://user-images.githubusercontent.com/104979865/180091036-57da423c-93f5-4e49-a33e-c7ea08100c38.png)
+
+
+<h2>Footer</h2>
+
+![image](https://user-images.githubusercontent.com/104979865/180091148-ff38b0b2-f0f8-47fd-853f-b149a7f9f2e4.png)
+
+
 
 <h2>Testing</h2>
 
