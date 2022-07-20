@@ -15,7 +15,7 @@ No errors were found
 
 No errors or warning were found
 
-<4>Lighthouse Accessibility Scores</h4> 
+<h4>Lighthouse Accessibility Scores</h4> 
 
 Performance - 98
 
