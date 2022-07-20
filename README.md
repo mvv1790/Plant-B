@@ -9,13 +9,15 @@ Plant-B does not have any particular age restrictions.
 
 The website contains a number of features users expect from a modern site.
 
-Navigation bar - top left corner contains the name of the site, top left contains navigation links. The links will take a user to desired separate tab of the site. 
+Navigation bar - top left corner contains the name of the site, top right contains navigation links. The links will take a user to a desired separate tab of the site. Alternatively all of the site's content can be browsed through home page by simply scrolling down.
 
 About Page - labled "Our Philosophy" the page contains some information about the website. The reason for its existance and some additional links to academic readings. 
 
 Food Recipes - the tab takes a user directly to three recipes featured on the site. 
 
 Links to Social Media - contains links to social media, youtube, twitter, instagram.
+
+Newsletter - if so inclined a user is welcome to share their email address for a newsletter.
 
 <h2>Testing</h2>
 
