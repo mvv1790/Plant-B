@@ -21,6 +21,10 @@ Newsletter - if so inclined a user is welcome to share their email address for a
 
 <h2>The header</h2>
 
+The header of the webpage contains a hero image and two text boxes which explain what the site is about.
+
+The goal of the website is to share vegan food recipes. In addition it provides some information on positive impact plant based diet has on our environment and our health.
+
 ![image](https://user-images.githubusercontent.com/104979865/180090672-84ba6c71-1da8-4f82-909b-6a8a3de447de.png)
 
 <h2>Our Philosophy</h2>
