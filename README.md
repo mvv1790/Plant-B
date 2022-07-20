@@ -60,12 +60,26 @@ No errors or warning were found
 
 <h4>Lighthouse Accessibility Scores</h4> 
 
+![image](https://user-images.githubusercontent.com/104979865/180092056-4b9921b3-e2e9-4f8c-b83c-0375304bfb78.png)
+
 <h2>Bugs and changes</h2>
 
-Throughout this project I have encountered a few difficulties such as adjusting images to fit the screen, 
+Throughout this project I have encountered a few difficulties such as adjusting images to fit the screen, resizing font to fit smaller devices as we as numerous typos. 
 
-![image](https://user-images.githubusercontent.com/104979865/180092056-4b9921b3-e2e9-4f8c-b83c-0375304bfb78.png)
+The first iteration of the site was not quiet clear. After some consideration I decided to lean towards the vegan food and not the positive impact of plant based diet. Which is still a part of the website but recipes take priority, the positive impact is an added bonus. 
 
 <h2>Link to the site</h2>
 
+The site is deployed to GitHub pages.
+
 <a href="https://mvv1790.github.io/Plant-B" target="_blank" rel=”noopener”>Plant-B</a>
+
+<h2>Credits</h2>
+
+Parts of the code were taken from the Code Institute "Love Running" Project.
+
+Sign up template and a few smaller solutions from <a href="https://www.w3schools.com" target="_blank" rel=”noopener”>W3Schools</a>
+
+
+
+
