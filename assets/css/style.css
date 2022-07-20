@@ -146,8 +146,6 @@ h1 {
 /* philosophy */
 
 #h2_heading {
-    width: auto;
-    height: auto;
     text-align: center;
     font-size: 320%;
     font-family: cursive;
@@ -196,7 +194,6 @@ a:active {
 /* recipes list styling */
 
 .recipes_h2 {
-
     text-align: center;
     font-size: 320%;
     font-family: cursive;
@@ -210,6 +207,7 @@ a:active {
     background-position: center;
     width: 100%;
     overflow: hidden;
+    text-align: center;
 }
 
 #recipe_list div {
@@ -292,7 +290,7 @@ footer {
 
     #top_image_media {
         height: 650px;
-        width: 100;
+        width: 100%;
         clear: both;
     }
 
@@ -300,7 +298,6 @@ footer {
         right: 0;
         top: 120px;
     }
-
 
     #philosophy_container>div {
         width: 100%;
