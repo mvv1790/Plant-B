@@ -5,13 +5,22 @@ Plant-B does not have any particular age restrictions.
 
 ![Screenshot_PlantB](https://user-images.githubusercontent.com/104979865/178318924-ec3c8776-9544-4c5e-8aa6-73bb13335958.png)
 
-
 <h2>Testing</h2>
 
-The W3C CSS Validation Service
+<h4>The W3C CSS Validation Service</h4>
 
 No errors were found
 
-Nu Html Checker
+<h4>Nu Html Checker</h4>
 
 No errors or warning were found
+
+<4>Lighthouse Accessibility Scores</h4> 
+
+Performance - 98
+
+Accessibility - 100
+
+Best Practices - 92
+
+SEO -98
