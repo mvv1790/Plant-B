@@ -41,6 +41,9 @@ Newsletter - if so inclined a user is welcome to share their email address for a
 
 <h2>Testing</h2>
 
+![image](https://user-images.githubusercontent.com/104979865/180092009-f8eb46e5-4fed-4c77-ad3f-16ac7334f554.png)
+
+
 <h4>The W3C CSS Validation Service</h4>
 
 No errors were found
