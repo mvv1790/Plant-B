@@ -19,6 +19,11 @@ Links to Social Media - contains links to social media, youtube, twitter, instag
 
 Newsletter - if so inclined a user is welcome to share their email address for a newsletter.
 
+<h2>The header</h2>
+
+![image](https://user-images.githubusercontent.com/104979865/180090672-84ba6c71-1da8-4f82-909b-6a8a3de447de.png)
+
+
 <h2>Testing</h2>
 
 <h4>The W3C CSS Validation Service</h4>
