@@ -232,6 +232,32 @@ a:active {
     border-radius: 18px;
 }
 
+#recipe_list2 {
+    background-image: url('../images/tomato.png');
+    height: 60%;
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    padding-left: 0%;
+    font-family: Oswald, sans-serif;
+}
+
+#recipe_list2 div {
+    color: black;
+    background-color: #ebbe25;
+    width: 33%;
+    height: 600px;
+    float: left;
+    padding: 30px 0 0 10px;
+    border: 0px solid lightyellow;
+    text-align: center;
+    box-sizing: border-box;
+    font-weight: 300;
+    border-radius: 18px;
+}
+
 ul {
     list-style-type: none;
 }
