@@ -246,7 +246,6 @@ a:active {
 }
 
 #recipe_list3 {
-    background-image: url('../images/beet.png');
     height: 60%;
     background-repeat: no-repeat;
     background-position: left;
@@ -269,6 +268,39 @@ a:active {
     box-sizing: border-box;
     font-weight: 300;
     border-radius: 18px;
+}
+
+.recipe3_image {
+    background: url('../images/beet.png') no-repeat center center;
+}
+
+#recipe_list4 {
+    height: 60%;
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    padding-left: 0%;
+    font-family: Oswald, sans-serif;
+}
+
+#recipe_list4 > div {
+    color: black;
+    background-color: rgba(201, 205, 48, 0.8);
+    width: 33%;
+    height: 600px;
+    float: left;
+    padding: 30px 0 0 10px;
+    border: 0px solid lightyellow;
+    text-align: center;
+    box-sizing: border-box;
+    font-weight: 300;
+    border-radius: 18px;
+}
+
+.recipe4_image {
+    background: url('../images/zucchini.png') no-repeat center center;
 }
 
 ul {
