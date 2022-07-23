@@ -220,7 +220,7 @@ a:active {
 }
 
 #recipe_list2 {
-    background-image: url('../images/tomato.png');
+    /*background-image: url('../images/tomato.png');*/
     height: 60%;
     background-repeat: no-repeat;
     background-position: right;
@@ -229,6 +229,10 @@ a:active {
     text-align: center;
     padding-left: 0%;
     font-family: Oswald, sans-serif;
+}
+
+.recipe2_image2 {
+    background: url('../images/tomato.png') no-repeat center center;
 }
 
 #recipe_list2 div {
@@ -243,6 +247,10 @@ a:active {
     box-sizing: border-box;
     font-weight: 300;
     border-radius: 18px;
+}
+
+.recipe2_image {
+    background: url('../images/wheat.png') no-repeat right bottom;
 }
 
 #recipe_list3 {
@@ -394,6 +402,28 @@ footer {
         clear: both;
         height: 600px;
         padding: 0;
+    }
+
+    #recipe_list2>div {
+        width: 100%;
+        clear: both;
+        height: 600px;
+        padding: 0;
+    }
+
+    #recipe_list3>div {
+        width: 100%;
+        clear: both;
+        height: 600px;
+        padding: 0;
+    }
+
+    #recipe_list4>div {
+        width: 100%;
+        clear: both;
+        height: 600px;
+        padding: 0;
+        background-image: none;
     }
 
     hr {
