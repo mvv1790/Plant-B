@@ -187,14 +187,13 @@ a:active {
 
 /* recipes list styling */
 
-.recipes_h3 {
+#recipe_list > h2 {
     font-family: Oswald, sans-serif;
     text-align: center;
     font-size: large;
 }
 
 #recipe_list {
-    background-image: url('../images/garlic2.png');
     height: 60%;
     background-repeat: no-repeat;
     background-position: center;
