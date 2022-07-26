@@ -104,6 +104,7 @@ The Footer contains the "Sing Up for Our Newsletter" form and links to social me
 
 <h4>The W3C CSS Validation Service</h4> 
 
+![image](https://user-images.githubusercontent.com/104979865/181114186-37ab7205-d9e3-4b8d-9677-800afa4e0d20.png)
   
 
 No errors were found 
