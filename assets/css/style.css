@@ -336,6 +336,12 @@ button {
     text-align: center;
 }
 
+.clearfloats::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
 /* social network styling */
 
 footer {
@@ -396,6 +402,7 @@ footer {
         clear: both;
         height: 600px;
         padding: 0;
+        overflow: auto;
     }
 
     #recipe_list2>div {
@@ -403,6 +410,7 @@ footer {
         clear: both;
         height: 600px;
         padding: 0;
+        overflow: auto;
     }
 
     #recipe_list3>div {
@@ -410,6 +418,7 @@ footer {
         clear: both;
         height: 600px;
         padding: 0;
+        overflow: auto;
     }
 
     #recipe_list4>div {
@@ -418,6 +427,7 @@ footer {
         height: 600px;
         padding: 0;
         background-image: none;
+        overflow: auto;
     }
 
     hr {
