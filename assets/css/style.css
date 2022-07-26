@@ -207,7 +207,7 @@ a:active {
 
 #recipe_list div {
     color: black;
-    background-color: rgba(170, 35, 101, 0.8);
+    background-color: rgba(170, 35, 101, 0.2);
     width: 33%;
     height: 600px;
     float: left;
@@ -220,7 +220,6 @@ a:active {
 }
 
 #recipe_list2 {
-    /*background-image: url('../images/tomato.png');*/
     height: 60%;
     background-repeat: no-repeat;
     background-position: right;
@@ -232,12 +231,12 @@ a:active {
 }
 
 .recipe2_image2 {
-    background: url('../images/tomato.png') no-repeat center center;
+    background: url('../images/wheat.png') no-repeat center center;
 }
 
 #recipe_list2 div {
     color: black;
-    background-color: #ebbe25;
+    background-color: rgba(221, 192, 0, 0.2);
     width: 33%;
     height: 600px;
     float: left;
@@ -247,10 +246,6 @@ a:active {
     box-sizing: border-box;
     font-weight: 300;
     border-radius: 18px;
-}
-
-.recipe2_image {
-    background: url('../images/wheat.png') no-repeat right bottom;
 }
 
 #recipe_list3 {
@@ -295,7 +290,7 @@ a:active {
 
 #recipe_list4 > div {
     color: black;
-    background-color: rgba(201, 205, 48, 0.8);
+    background-color: rgba(201, 205, 48, 0.2);
     width: 33%;
     height: 600px;
     float: left;
