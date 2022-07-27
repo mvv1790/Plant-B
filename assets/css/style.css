@@ -482,5 +482,10 @@ footer {
         font-size: 180%;
         text-align: center;
     }
+    
+    .recipe4_image {
+        display: none;
+        visibility: hidden;
+    }
 
 }
