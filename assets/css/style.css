@@ -331,7 +331,102 @@ a:active {
 }
 
 .recipe5_image {
-    background: url('../images/');
+    background: url('../images/chocolate.png') no-repeat center center;
+}
+
+#recipe_list6 {
+    height: 60%;
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    padding-left: 0%;
+    font-family: Oswald, sans-serif;
+}
+
+#recipe_list6 div {
+    color: black;
+    background-color: rgba(66, 146, 97, 0.2);
+    width: 33%;
+    height: 600px;
+    float: left;
+    padding: 30px 0 0 10px;
+    border: 0px solid lightyellow;
+    text-align: center;
+    box-sizing: border-box;
+    font-weight: 300;
+    border-radius: 18px;
+}
+
+.recipe6_image {
+    background: url('../images/palm-tree.png') no-repeat center center;
+    display: block;
+    position: relative;
+}
+
+/* Overlay text styling */
+
+/* Overlay 2 */
+
+#recipe_list2 #overlay2 {
+    position: relative;
+    bottom: 0;
+    left: 100%;
+    right: 0;
+    background-color: rgba(221, 192, 0, 0.4);
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: .5s ease;
+}
+
+#recipe_list2 .recipe2_image2:hover #overlay2 {
+    width: 100%;
+    left: 0;
+}
+
+#recipe_list2 .overlay2_text {
+    white-space: nowrap;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+/* Overlay 6 */
+
+#recipe_list6 #overlay {
+    position: absolute;
+    bottom: 0;
+    left: 100%;
+    right: 0;
+    background-color: rgba(66, 146, 97, 0.9);
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: .5s ease;
+}
+
+#recipe_list6 .recipe6_image:hover #overlay {
+    width: 100%;
+    left: 0;
+}
+
+#recipe_list6 .overlay_text {
+    white-space: nowrap;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
 }
 
 ul {
