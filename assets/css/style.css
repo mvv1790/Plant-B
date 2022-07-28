@@ -187,7 +187,7 @@ a:active {
 
 /* recipes list styling */
 
-#recipe_list > h2 {
+#recipe_list>h2 {
     font-family: Oswald, sans-serif;
     text-align: center;
     font-size: large;
@@ -258,7 +258,7 @@ a:active {
     font-family: Oswald, sans-serif;
 }
 
-#recipe_list3 > div {
+#recipe_list3>div {
     color: black;
     background-color: rgba(66, 146, 97, 0.2);
     width: 33%;
@@ -287,7 +287,7 @@ a:active {
     font-family: Oswald, sans-serif;
 }
 
-#recipe_list4 > div {
+#recipe_list4>div {
     color: black;
     background-color: rgba(201, 205, 48, 0.2);
     width: 33%;
@@ -336,7 +336,7 @@ button {
     text-align: center;
 }
 
-.clearfloats::after{
+.clearfloats::after {
     content: "";
     clear: both;
     display: table;
@@ -385,6 +385,10 @@ footer {
     #top_image_text {
         right: 0;
         top: 120px;
+    }
+
+    #philosophy_container {
+        background: rgba(66, 146, 97, 0.1);
     }
 
     #philosophy_container>div {
@@ -440,12 +444,13 @@ footer {
 @media screen and (max-width: 950px) {
 
     #menu {
-        clear: right;
+        clear: both;
         float: right;
         right: 0;
         margin-left: 2px;
         margin-bottom: 2px;
         line-height: 15px;
+        display: block;
     }
 
     #top_image_text {
@@ -468,6 +473,7 @@ footer {
         width: 100%;
         height: 800px;
         background: none;
+        background-color: rgba(66, 146, 97, 0.1);
     }
 
     #philosophy_text {
@@ -482,7 +488,7 @@ footer {
         font-size: 180%;
         text-align: center;
     }
-    
+
     .recipe4_image {
         display: none;
         visibility: hidden;
