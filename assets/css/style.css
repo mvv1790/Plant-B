@@ -365,6 +365,25 @@ a:active {
     position: relative;
 }
 
+#recipe_animation {
+    width: 100px;
+    height: 100px;
+    background: rgba(221, 192, 0, 0.4);
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;
+    animation-direction: reverse;
+    border-radius: 18px;
+    font-size: 120%;
+    text-align: center;
+  }
+  
+  @keyframes example {
+    from {left: 0px;}
+    to {left: 800px; background-color: rgba(221, 192, 0, 0.8);}
+  }
+
 ul {
     list-style-type: none;
 }
