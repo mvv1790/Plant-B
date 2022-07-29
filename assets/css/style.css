@@ -375,7 +375,7 @@ a:active {
     animation-fill-mode: forwards;
     animation-direction: reverse;
     border-radius: 18px;
-    font-size: 120%;
+    font-size: 100%;
     text-align: center;
   }
   
