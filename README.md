@@ -104,18 +104,15 @@ The Footer contains the "Sing Up for Our Newsletter" form and links to social me
 
 <h4>The W3C CSS Validation Service</h4> 
 
-![image](https://user-images.githubusercontent.com/104979865/181114186-37ab7205-d9e3-4b8d-9677-800afa4e0d20.png)
+![image](https://user-images.githubusercontent.com/104979865/181886745-744b5c4a-846f-47e3-9bb9-6c03ad03d460.png)
   
-
-No errors were found 
-
   
 
 <h4>Nu Html Checker</h4> 
 
   
 
-No errors or warnings were found 
+![image](https://user-images.githubusercontent.com/104979865/181887295-9e82b64e-60c3-4aa0-a14e-3b6e1adb8a22.png)
 
   
 
