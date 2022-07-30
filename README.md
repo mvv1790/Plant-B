@@ -153,16 +153,23 @@ The first iteration of the site was not quite clear. After some consideration I 
 
 <a href="https://github.com">GitHub</a> - used to host/edit the site.
 
-<h2>Link to the site</h2> 
+<h2>Deployment</h2>
 
+The site was deployed to GitHub pages taking the following steps:
+
+1. In the repository of GitHub, navigate to the Settings tab.
+2. In the Settings tab, on the left side navigate to the Pages tab.
+3. Under Source, select the branch to master and click save.
+4. Shortly after a message will appear with a link to the deplyed site (It might take a few moments for the link to function). 
+
+
+<h2>Link to the site</h2> 
   
 
 The site is deployed to GitHub pages. 
-
   
 
 <a href="https://mvv1790.github.io/Plant-B" target="_blank" rel=”noopener”>Plant-B</a> 
-
   
 
 <h2>Credits</h2> 
