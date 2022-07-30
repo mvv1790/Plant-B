@@ -6,6 +6,8 @@ As an added bonus the website offers its visitors some information on environmen
 
 Plant-B does not have any particular age restrictions.  
 
+
+<a href="https://mvv1790.github.io/Plant-B" target="_blank" rel=”noopener”>Plant-B</a> 
   
 
 ![image](https://user-images.githubusercontent.com/104979865/181884365-4596fd4d-16b1-4d2c-80f0-17fb6c3bcb15.png) 
@@ -20,7 +22,7 @@ The website contains a number of features users expect from a modern site.
 
   
 
-Navigation bar - top left corner contains the name of the site, top right contains navigation links. The links will take a user to a desired separate tab of the site. Alternatively, all of the site's content can be browsed through home page by simply scrolling down. 
+Navigation bar - top left corner contains the name of the site, top right contains navigation links. The links will take a user to a desired separate tab of the site. 
 
   
 
@@ -28,7 +30,7 @@ About Page - labelled "Our Philosophy" the page contains some information about 
 
   
 
-Food Recipes - the tab takes a user directly to three recipes featured on the site.  
+Food Recipes - the tab takes a user directly to the recipes featured on the site.  
 
   
 
@@ -74,7 +76,7 @@ This part of the site contains a text explaining the idea behind this project. I
 
   
 
-The Recipe section of the website contains a three-part recipe for vegan pizza. Though it is meant to be used together, the pizza dough can be used for any type of toppings. There is a list of ingredients needed for this recipe as well as method of preparation.    
+The Recipe section of the website contains a number of vegan food recipes. All of these recipes have been tested multiple times. There is a list of ingredients needed for this recipe as well as method of preparation, which guides users step by step.    
 
   
 
@@ -128,8 +130,12 @@ The Footer contains the "Sing Up for Our Newsletter" form and links to social me
 
   
 
-Throughout this project I have encountered a few difficulties such as adjusting images to fit the screen, resizing font to fit smaller devices as well as numerous typos.  
+Throughout this project I have encountered a few difficulties such as adjusting images to fit the screen, resizing font to fit smaller devices as well as numerous typos.
 
+
+In addition there have been a few attempts at adding animations to the site. Which had proven to be a bit of a challenge. 
+
+A dropdown menu was considered but later dropped as it proved to be difficult to combine with other navigation elements.
   
 
 The first iteration of the site was not quite clear. After some consideration I decided to lean towards the vegan food and not the positive impact of plant-based diet. Which is still a part of the website but recipes take priority, the positive impact is an added bonus.  
