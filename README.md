@@ -52,7 +52,7 @@ The goal of the website is to share vegan food recipes. In addition, it provides
 
   
 
-![image](https://user-images.githubusercontent.com/104979865/180090672-84ba6c71-1da8-4f82-909b-6a8a3de447de.png) 
+![image](https://user-images.githubusercontent.com/104979865/181885116-43662037-d1da-471c-a99f-0f2416669416.png)
 
   
 
