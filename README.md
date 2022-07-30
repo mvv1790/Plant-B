@@ -42,7 +42,7 @@ Newsletter - if so, inclined a user is welcome to share their email address for 
 
 <h2>The Structure</h2>
 
-The website is divided into three separate parts. <a href="https://mvv1790.github.io/Plant-B" target="_blank" rel=”noopener”>Home</a> is the default loading page, it contains the "slogans" of the site. <a href="[https://mvv1790.github.io/Plant-B](https://mvv1790.github.io/Plant-B/philosophy.html)" target="_blank" rel=”noopener”>Philosophy</a> page explains the reasons for this site's existence. <a href="[[https://mvv1790.github.io/Plant-B](https://mvv1790.github.io/Plant-B/philosophy.html)](https://mvv1790.github.io/Plant-B/recipes.html)" target="_blank" rel=”noopener”>Recipes</a> is the tab that contains the food recipes. At the bottom of every tab there is "Sign Up" button, links to social media and authors name/link to LinkedIn.  
+The website is divided into three separate parts. <a href="https://mvv1790.github.io/Plant-B" target="_blank" rel=”noopener”>Home</a> is the default loading page, it contains the "slogans" of the site. <a href="https://mvv1790.github.io/Plant-B/philosophy.html" target="_blank" rel=”noopener”>Philosophy</a> page explains the reasons for this site's existence. <a href="https://mvv1790.github.io/Plant-B/recipes.html" target="_blank" rel=”noopener”>Recipes</a> is the tab that contains the food recipes. At the bottom of every tab there is "Sign Up" button, links to social media and authors name/link to LinkedIn.  
   
 
 <h2>The header</h2> 
