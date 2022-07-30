@@ -365,12 +365,14 @@ a:active {
     position: relative;
 }
 
+/* recipe list animation */
+
 #recipe_animation {
     width: 100px;
     height: 100px;
-    background: rgba(221, 192, 0, 0.4);
+    background: rgba(170, 35, 101, 0.2);
     position: relative;
-    animation-name: example;
+    animation-name: animation;
     animation-duration: 4s;  
     animation-fill-mode: forwards;
     animation-direction: reverse;
@@ -379,9 +381,104 @@ a:active {
     text-align: center;
   }
   
-  @keyframes example {
+  @keyframes animation {
+    from {left: 0px;}
+    to {left: 800px; background-color: rgba(170, 35, 101, 0.8);}
+  }
+
+  #recipe_animation2 {
+    width: 100px;
+    height: 100px;
+    background: rgba(221, 192, 0, 0.2);
+    position: relative;
+    animation-name: animation2;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;
+    animation-direction: reverse;
+    border-radius: 18px;
+    font-size: 100%;
+    text-align: center;
+  }
+
+  @keyframes animation2 {
     from {left: 0px;}
     to {left: 800px; background-color: rgba(221, 192, 0, 0.8);}
+  }
+
+  #recipe_animation3 {
+    width: 100px;
+    height: 100px;
+    background: rgba(66, 146, 97, 0.2);
+    position: relative;
+    animation-name: animation3;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;
+    animation-direction: reverse;
+    border-radius: 18px;
+    font-size: 100%;
+    text-align: center;
+  }
+
+  @keyframes animation3 {
+    from {left: 0px;}
+    to {left: 800px; background-color: rgba(66, 146, 97, 0.8);}
+  }
+
+  #recipe_animation4 {
+    width: 100px;
+    height: 100px;
+    background: rgba(221, 192, 0, 0.2);
+    position: relative;
+    animation-name: animation4;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;
+    animation-direction: reverse;
+    border-radius: 18px;
+    font-size: 100%;
+    text-align: center;
+  }
+
+  @keyframes animation4 {
+    from {left: 0px;}
+    to {left: 800px; background-color: rgba(221, 192, 0, 0.8);}
+  }
+
+  #recipe_animation5 {
+    width: 100px;
+    height: 100px;
+    background: rgba(170, 35, 101, 0.2);
+    position: relative;
+    animation-name: animation5;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;
+    animation-direction: reverse;
+    border-radius: 18px;
+    font-size: 100%;
+    text-align: center;
+  }
+
+  @keyframes animation5 {
+    from {left: 0px;}
+    to {left: 800px; background-color: rgba(170, 35, 101, 0.8);}
+  }
+
+  #recipe_animation6 {
+    width: 100px;
+    height: 100px;
+    background: rgba(66, 146, 97, 0.2);
+    position: relative;
+    animation-name: animation6;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;
+    animation-direction: reverse;
+    border-radius: 18px;
+    font-size: 100%;
+    text-align: center;
+  }
+
+  @keyframes animation6 {
+    from {left: 0px;}
+    to {left: 800px; background-color: rgba(66, 146, 97, 0.8);}
   }
 
 ul {
