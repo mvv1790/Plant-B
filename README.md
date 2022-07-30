@@ -8,7 +8,7 @@ Plant-B does not have any particular age restrictions.
 
   
 
-![Screenshot_PlantB](https://user-images.githubusercontent.com/104979865/178318924-ec3c8776-9544-4c5e-8aa6-73bb13335958.png) 
+![image](https://user-images.githubusercontent.com/104979865/181884365-4596fd4d-16b1-4d2c-80f0-17fb6c3bcb15.png) 
 
   
 
