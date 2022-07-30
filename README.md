@@ -52,7 +52,7 @@ The goal of the website is to share vegan food recipes. In addition, it provides
 
   
 
-![image](https://user-images.githubusercontent.com/104979865/181885116-43662037-d1da-471c-a99f-0f2416669416.png)
+![image](https://user-images.githubusercontent.com/104979865/181885708-4d5e8a57-f668-48c7-ba6b-4050baa9e1b5.png)
 
   
 
@@ -64,7 +64,7 @@ This part of the site contains a text explaining the idea behind this project. I
 
   
 
-![image](https://user-images.githubusercontent.com/104979865/180090884-e1dcfba7-7fdf-4385-a5bd-2d6a79b9952f.png) 
+![image](https://user-images.githubusercontent.com/104979865/181885454-0c1d83d2-e8f1-45a1-9171-bccd99d23413.png)
 
   
 
@@ -78,7 +78,7 @@ The Recipe section of the website contains a three-part recipe for vegan pizza. 
 
   
 
-![image](https://user-images.githubusercontent.com/104979865/180091036-57da423c-93f5-4e49-a33e-c7ea08100c38.png) 
+![image](https://user-images.githubusercontent.com/104979865/181886035-62f34ce8-8dda-48d0-9508-55a34bdf18ba.png)
 
   
 
