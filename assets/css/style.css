@@ -12,6 +12,8 @@ body {
     font-family: Oswald, sans-serif;
 }
 
+/* Page background color */
+
 .page-color {
     background-color: lightyellow;
 }
@@ -607,8 +609,12 @@ footer {
         clear: both;
         height: 600px;
         padding: 0;
-        background-image: none;
         overflow: auto;
+    }
+
+    .recipe4_image {
+        display: none;
+        visibility: hidden;
     }
 
     #recipe_list5>div {
@@ -618,6 +624,11 @@ footer {
         padding: 0;
         background-image: none;
         overflow: auto;
+    }
+
+    .recipe5_image {
+        display: none;
+        visibility: hidden;
     }
 
     #recipe_list6>div {
