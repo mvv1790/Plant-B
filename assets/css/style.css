@@ -73,6 +73,7 @@ h1 {
     border-bottom: 3px solid orangered;
 }
 
+
 /* logo and top image */
 
 #logo {
@@ -619,6 +620,15 @@ footer {
         overflow: auto;
     }
 
+    #recipe_list6>div {
+        width: 100%;
+        clear: both;
+        height: 600px;
+        padding: 0;
+        /*background-image: none;*/
+        overflow: auto;
+    }
+
     hr {
         display: none;
     }
@@ -678,5 +688,25 @@ footer {
         display: none;
         visibility: hidden;
     }
+
+    #recipe_animation {
+        width: 100px;
+        height: 100px;
+        background: rgba(170, 35, 101, 0.2);
+        position: absolute;
+        animation-name: animation;
+        animation-duration: 4s;  
+        animation-fill-mode: forwards;
+        animation-direction: reverse;
+        border-radius: 18px;
+        font-size: 100%;
+        text-align: center;
+        visibility: hidden;
+      }
+      
+      @keyframes animation {
+        from {left: 0px;}
+        to {left: 800px; background-color: rgba(170, 35, 101, 0.8);}
+      }
 
 }
