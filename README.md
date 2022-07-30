@@ -143,7 +143,15 @@ A dropdown menu was considered but later dropped as it proved to be difficult to
 
 The first iteration of the site was not quite clear. After some consideration I decided to lean towards the vegan food and not the positive impact of plant-based diet. Which is still a part of the website but recipes take priority, the positive impact is an added bonus.  
 
-  
+<h2>Technologies Used</h2>
+
+<a href="https://html.spec.whatwg.org/">HTML5</a> - provides the general structure of the sie.
+
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a> - provides the styling.
+
+<a href="https://www.gitpod.io/#get-started">GitPod</a> - used to deploy the site.
+
+<a href="https://github.com">GitHub</a> - used to host/edit the site.
 
 <h2>Link to the site</h2> 
 
